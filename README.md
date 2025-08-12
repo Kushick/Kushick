@@ -1,5 +1,6 @@
 <!-- Banner -->
-![Kotlin Android Developer](https://i.ibb.co/g9h8Vv7/github-banner-kotlin-android.png)
+![file_00000000f32861f5a9dea77af481d9ed.png](https://github.com/user-attachments/assets/7e519c2c-1e1a-4a2c-b87e-1faac7f5744e)
+
 
 # 👋 Hi, I'm Kushick  
 **Kotlin | Android Developer | Jetpack Compose Enthusiast**
